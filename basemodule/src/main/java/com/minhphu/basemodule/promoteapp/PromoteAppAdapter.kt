@@ -26,6 +26,6 @@ class PromoteAppAdapter(list: List<AppInfo>, private val callback: ListAppMenuCa
     }
 
     interface ListAppMenuCallback {
-        fun onClick(menuUI: AppInfo)
+        fun onClick(appInfo: AppInfo)
     }
 }
