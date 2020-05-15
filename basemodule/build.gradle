@@ -42,5 +42,7 @@ dependencies {
     api "com.scottyab:aescrypt:$ae_scrypt"
     implementation "com.github.bumptech.glide:glide:$glide"
     annotationProcessor "com.github.bumptech.glide:compiler:$glide"
+    api "com.facebook.android:audience-network-sdk:$fb_audience"
+    api "com.google.firebase:firebase-ads:$firebase_ad"
 }
 
