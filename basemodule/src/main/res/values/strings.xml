@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="txt_please_rating">If you like this, please rate for us 5 stars!</string>
+    <string name="txt_thanks_user">Thank you for using our app!</string>
+    <string name="txt_ok">OK</string>
+    <string name="txt_not_now">LATER</string>
+
+</resources>
